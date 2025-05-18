@@ -30,6 +30,7 @@ public class AnnotationCheatsheetApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AnnotationCheatsheetApplication.class, args);
+        System.out.println("cheatsheet Annotations");
     }
 
 }
