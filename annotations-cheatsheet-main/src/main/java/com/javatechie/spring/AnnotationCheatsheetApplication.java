@@ -32,6 +32,7 @@ public class AnnotationCheatsheetApplication {
         SpringApplication.run(AnnotationCheatsheetApplication.class, args);
         System.out.println("cheatsheet Annotations");
         System.out.println(" modification");
+        System.out.println("changes scuccess ");
     }
 
 }
